@@ -1,1 +1,3 @@
-# Password-Generator
+This is a website application designed to generate a random password based on user input. When the "Generate Button" password is clicked, a series of prompts is given to the user for them to customize how long their password is and of what characters the password should contain. If the user answers the prompts to generate a password shorter than 8 characters or longer than 128 characters, the function will not run. If the user answers the prompts to generate a password of a valid length but does not specify any set of characters to use in the password, the function will not run. Only after providing a valid password length between 8 and 128 characters and specifying at least one type of character to use will the randomly generated password appear in the box titled "Your Secure Password".
+
+You can access the live page at: https://pungry.github.io/Password-Generator/.
